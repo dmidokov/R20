@@ -1,1 +1,1 @@
-# Remontti -- система учета
+# Remontti v2.0
